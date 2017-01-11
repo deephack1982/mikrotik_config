@@ -1,0 +1,3 @@
+module MikrotikConfig
+  VERSION = "0.0.1"
+end
